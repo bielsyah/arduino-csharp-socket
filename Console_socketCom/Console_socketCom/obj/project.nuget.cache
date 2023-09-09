@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZKMkWWLDugE/GZXTkLxOXsc9BTVB8WC6dzgI5THfxw+fVAQGfgRTf5uOHuPxoswcEQfLzv0pEdsca9w1f6CQQA==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C#\\Console_socketCom\\Console_socketCom\\Console_socketCom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elbys\\.nuget\\packages\\supersimpletcp\\3.0.10\\supersimpletcp.3.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

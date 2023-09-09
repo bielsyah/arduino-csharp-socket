@@ -1,0 +1,17 @@
+D:\Programming\C#\Console_socketCom\Console_socketCom\obj\Debug\net6.0\Console_socketCom.csproj.AssemblyReference.cache
+D:\Programming\C#\Console_socketCom\Console_socketCom\obj\Debug\net6.0\Console_socketCom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Console_socketCom\Console_socketCom\obj\Debug\net6.0\Console_socketCom.AssemblyInfoInputs.cache
+D:\Programming\C#\Console_socketCom\Console_socketCom\obj\Debug\net6.0\Console_socketCom.AssemblyInfo.cs
+D:\Programming\C#\Console_socketCom\Console_socketCom\obj\Debug\net6.0\Console_socketCom.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Console_socketCom\Console_socketCom\bin\Debug\net6.0\Console_socketCom.exe
+D:\Programming\C#\Console_socketCom\Console_socketCom\bin\Debug\net6.0\Console_socketCom.deps.json
+D:\Programming\C#\Console_socketCom\Console_socketCom\bin\Debug\net6.0\Console_socketCom.runtimeconfig.json
+D:\Programming\C#\Console_socketCom\Console_socketCom\bin\Debug\net6.0\Console_socketCom.dll
+D:\Programming\C#\Console_socketCom\Console_socketCom\bin\Debug\net6.0\Console_socketCom.pdb
+D:\Programming\C#\Console_socketCom\Console_socketCom\bin\Debug\net6.0\SuperSimpleTcp.dll
+D:\Programming\C#\Console_socketCom\Console_socketCom\obj\Debug\net6.0\Console_socketCom.csproj.CopyComplete
+D:\Programming\C#\Console_socketCom\Console_socketCom\obj\Debug\net6.0\Console_socketCom.dll
+D:\Programming\C#\Console_socketCom\Console_socketCom\obj\Debug\net6.0\refint\Console_socketCom.dll
+D:\Programming\C#\Console_socketCom\Console_socketCom\obj\Debug\net6.0\Console_socketCom.pdb
+D:\Programming\C#\Console_socketCom\Console_socketCom\obj\Debug\net6.0\Console_socketCom.genruntimeconfig.cache
+D:\Programming\C#\Console_socketCom\Console_socketCom\obj\Debug\net6.0\ref\Console_socketCom.dll
